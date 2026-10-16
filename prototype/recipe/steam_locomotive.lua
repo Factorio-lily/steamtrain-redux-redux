@@ -1,6 +1,6 @@
 data:extend({{
 	type = "recipe",
-	category = "crafting",
+	categories = { "crafting" },
 	name = "rtc-steam-locomotive-recipe",
 	enabled = false,
 	ingredients = {{type="item",name="iron-gear-wheel",amount=20},{type="item",name="steam-engine",amount=1},{type="item", name="steel-plate",amount=50}},
